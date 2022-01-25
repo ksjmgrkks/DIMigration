@@ -2,8 +2,8 @@ package com.leopold.mvvm.di
 
 import com.leopold.mvvm.ui.bookmark.BookmarkViewModel
 import com.leopold.mvvm.ui.search.SearchViewModel
-import org.koin.androidx.viewmodel.ext.koin.viewModel
-import org.koin.dsl.module.module
+import org.koin.androidx.viewmodel.dsl.viewModel
+import org.koin.dsl.module
 
 /**
  * @author Leopold
